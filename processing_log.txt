@@ -1,23 +1,23 @@
-2026-07-13 01:27:03 Started replace_files.
-2026-07-13 01:27:03 Clearing repo D:\git\Logging_FORSKNINGSRESAN_2024.
-2026-07-13 01:27:03 Processing.
-2026-07-13 01:27:03 Loading species.
-2026-07-13 01:27:06 Loading notifications from shape files.
-2026-07-13 01:27:07 Loading observations.
-2026-07-13 01:27:13 Adding observations to notifications.
-2026-07-13 01:27:16 Freeing memory.
-2026-07-13 01:27:16 Loading observation Excel dictionaries.
-2026-07-13 01:27:17 Adding owners.
-2026-07-13 01:27:26 Processing logging notifications.
-2026-07-13 01:27:26 Generating observation maps.
-2026-07-13 01:29:07 Generating knärot maps.
-2026-07-13 01:29:11 Generating complaints.
-2026-07-13 01:29:16 Generating complaint letters.
-2026-07-13 01:29:20 Generating requests.
-2026-07-13 01:29:24 Generating request letters.
-2026-07-13 01:29:32 Saving notification information to Excel.
-2026-07-13 01:29:32 Saving list of notifications to json.
-2026-07-13 01:29:32 Copying species text document.
-2026-07-13 01:29:32 Saving observations to Excel.
-2026-07-13 01:29:37 Pushing repo D:\git\Logging_FORSKNINGSRESAN_2024.
-2026-07-13 01:29:37 Pushing 1 repos.
+2026-07-13 01:39:03 Started replace_files.
+2026-07-13 01:39:03 Clearing repo D:\git\Logging_FORSKNINGSRESAN_2024.
+2026-07-13 01:39:03 Processing.
+2026-07-13 01:39:03 Loading species.
+2026-07-13 01:39:06 Loading notifications from shape files.
+2026-07-13 01:39:07 Loading observations.
+2026-07-13 01:39:13 Adding observations to notifications.
+2026-07-13 01:39:16 Freeing memory.
+2026-07-13 01:39:16 Loading observation Excel dictionaries.
+2026-07-13 01:39:16 Adding owners.
+2026-07-13 01:39:26 Processing logging notifications.
+2026-07-13 01:39:26 Generating observation maps.
+2026-07-13 01:41:04 Generating knärot maps.
+2026-07-13 01:41:10 Generating complaints.
+2026-07-13 01:41:14 Generating complaint letters.
+2026-07-13 01:41:18 Generating requests.
+2026-07-13 01:41:22 Generating request letters.
+2026-07-13 01:41:30 Saving notification information to Excel.
+2026-07-13 01:41:30 Saving list of notifications to json.
+2026-07-13 01:41:30 Copying species text document.
+2026-07-13 01:41:30 Saving observations to Excel.
+2026-07-13 01:41:35 Pushing repo D:\git\Logging_FORSKNINGSRESAN_2024.
+2026-07-13 01:41:35 Pushing 1 repos.
